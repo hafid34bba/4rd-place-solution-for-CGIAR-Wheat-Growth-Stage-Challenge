@@ -7,4 +7,6 @@ the main problem is Predict which phase of growth wheat crops are in using photo
 
 where i combinated Resnet50 with Densnet201
 
+the data can be found here https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge/data
+
 # Enjoy the solution
